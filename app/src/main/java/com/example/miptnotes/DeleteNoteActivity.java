@@ -46,7 +46,7 @@ public class DeleteNoteActivity extends AppCompatActivity {
     }
 
     private void deleteNoteFromFile(String noteToDelete) {
-        // Implement logic to delete the selected note from the file
-        // This is a simplified example, you may need to read the file, remove the note, and then save the updated content.
+       
+      
     }
 }
